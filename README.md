@@ -1,11 +1,11 @@
-🤖 Hi, I'm Vansh Deep Bawa ||
+🤖 Hi, I'm Vansh Deep Bawa 
 
 I’m a student interested in Python, Machine Learning, Deep Learning, and simple content creation.
 I also enjoy building small projects, learning new tools, and improving my skills daily.
 
-🚀 Skills ||
+🚀 Skills 
 
---Programming & ML --
+-- Programming & ML --
 
 🔹 Python	
 
@@ -19,7 +19,7 @@ I also enjoy building small projects, learning new tools, and improving my skill
 
 🔹Kaggle notebook	
 
---Content & Tools --
+-- Content & Tools --
 
 🔹Basic video editing (CapCut / mobile editing tools)	
 
@@ -27,7 +27,8 @@ I also enjoy building small projects, learning new tools, and improving my skill
 
 🔹Excel / Sheets	
 
-📫 Contact ||
+📫 Contact 
 
 GitHub: github.com/VanshDeepBawa
+
 Email: vanshdeep182005@gmail.com
