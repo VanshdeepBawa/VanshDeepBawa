@@ -8,17 +8,25 @@ I also enjoy building small projects, learning new tools, and improving my skill
 --Programming & ML --
 
 Python
+
 Machine Learning (prediction, classification)
+
 Deep Learning (CNN, GAN)
+
 Data cleaning 
+
 Pandas, NumPy, Matplotlib
+
 Kaggle notebook
 
 --Content & Tools --
 
 Basic video editing (CapCut / mobile editing tools)
+
 Canva (posters, flyers, thumbnails)
+
 Excel / Sheets
+
 
 📫 Contact ||
 
