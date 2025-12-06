@@ -1,16 +1,26 @@
-## Hi there 👋
+🤖 Hi, I'm Vansh Deep Bawa ||
 
-<!--
-**VanshdeepBawa/VanshDeepBawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a student interested in Python, Machine Learning, Deep Learning, and simple content creation.
+I also enjoy building small projects, learning new tools, and improving my skills daily.
 
-Here are some ideas to get you started:
+🚀 Skills ||
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--Programming & ML --
+
+Python
+Machine Learning (prediction, classification)
+Deep Learning (CNN, GAN)
+Data cleaning 
+Pandas, NumPy, Matplotlib
+Kaggle notebook
+
+--Content & Tools --
+
+Basic video editing (CapCut / mobile editing tools)
+Canva (posters, flyers, thumbnails)
+Excel / Sheets
+
+📫 Contact ||
+
+GitHub: github.com/VanshDeepBawa
+Email: vanshdeep182005@gmail.com
